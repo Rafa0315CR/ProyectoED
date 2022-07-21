@@ -64,26 +64,26 @@ public class ControllerSobres implements ActionListener {
     public void obtener() {
 
         //Sobres sob = new Sobres();
-        Sobres sob1 = new Sobres("Han Solo", "Bueno", 128, "Arma Laser");
-        Sobres sob2 = new Sobres("Poe Damero", "Bueno", 128, "Arma Laser");
-        Sobres sob3 = new Sobres("Obi Wan Kenobi", "Bueno", 128, "Sable Azul");
-        Sobres sob4 = new Sobres("Anakin", "Malo", 128, "Sable Rojo");
-        Sobres sob5 = new Sobres("Wicket", "Malo", 128, "Arma Laser");
-        Sobres sob6 = new Sobres("Jar Jar", "Bueno", 128, "Sable Rojo");
-        Sobres sob7 = new Sobres("Ansoka", "Mala", 128, "Sable Blanco");
-        Sobres sob8 = new Sobres("Leia", "Buena", 0, "Arma Laser");
-        Sobres sob9 = new Sobres("Darth Maul", "Malo", 128, "Sable Rojo");
-        Sobres sob10 = new Sobres("Finn", "Malo", 128, "Sable Rojo");
-        Sobres sob11 = new Sobres("R2D2", "Bueno", 128, "Scanner Rojo");
-        Sobres sob12 = new Sobres("BB-8", "Bueno", 128, "Scaneer Rojo");
-        Sobres sob13 = new Sobres("Conde Dooku", "Malo", 128, "Sable Rojo");
-        Sobres sob14 = new Sobres("Jabba", "Malo", 128, "No Tiene");
-        Sobres sob15 = new Sobres("Kylon Ren", "Malo", 128, "Sable Rojo");
-        Sobres sob16 = new Sobres("Jyn Erso", "Bueno", 128, "No tiene");
-        Sobres sob17 = new Sobres("Chewbacca", "Bueno", 128, "No tiene");
-        Sobres sob18 = new Sobres("Yoda", "Bueno", 128, "Sable Verde");
-        Sobres sob19 = new Sobres("Quin-gon Jinn", "Bueno", 128, "Sable Verde");
-        Sobres sob20 = new Sobres("Grogu", "Bueno", 128, "No tiene");
+        Sobres sob1 = new Sobres("Han Solo", "Bueno", 1223, "Arma Laser");
+        Sobres sob2 = new Sobres("Poe Damero", "Bueno", 1321, "Arma Laser");
+        Sobres sob3 = new Sobres("Obi Wan Kenobi", "Bueno", 324, "Sable Azul");
+        Sobres sob4 = new Sobres("Anakin", "Malo", 4252, "Sable Rojo");
+        Sobres sob5 = new Sobres("Wicket", "Malo", 5000, "Arma Laser");
+        Sobres sob6 = new Sobres("Jar Jar", "Bueno", 2342, "Sable Rojo");
+        Sobres sob7 = new Sobres("Ansoka", "Malo", 1245, "Sable Blanco");
+        Sobres sob8 = new Sobres("Leia", "Bueno", 4141, "Arma Laser");
+        Sobres sob9 = new Sobres("Darth Maul", "Malo", 7864, "Sable Rojo");
+        Sobres sob10 = new Sobres("Finn", "Malo", 2145, "Sable Rojo");
+        Sobres sob11 = new Sobres("R2D2", "Bueno", 123, "Scanner Rojo");
+        Sobres sob12 = new Sobres("BB-8", "Bueno", 543, "Scaneer Rojo");
+        Sobres sob13 = new Sobres("Conde Dooku", "Malo", 12, "Sable Rojo");
+        Sobres sob14 = new Sobres("Jabba", "Malo", 2145, "No Tiene");
+        Sobres sob15 = new Sobres("Kylon Ren", "Malo", 674, "Sable Rojo");
+        Sobres sob16 = new Sobres("Jyn Erso", "Bueno", 12345, "No tiene");
+        Sobres sob17 = new Sobres("Chewbacca", "Bueno", 123, "No tiene");
+        Sobres sob18 = new Sobres("Yoda", "Bueno", 654, "Sable Verde");
+        Sobres sob19 = new Sobres("Quin-gon Jinn", "Bueno", 1245, "Sable Verde");
+        Sobres sob20 = new Sobres("Grogu", "Bueno", 1244, "No tiene");
 
         System.out.println(vistaSobres.lblHora.getText());
 
